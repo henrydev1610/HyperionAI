@@ -1,3 +1,5 @@
+![image](./chatbot.png)
+
 # Hyperion Tech Chatbot 🤖
 
 Este projeto é um **chatbot em Python** desenvolvido para ajudar usuários a resolverem problemas de código utilizando a **API da Groq**. O chatbot é capaz de responder perguntas em **Português Brasileiro**, fornecendo respostas detalhadas e informativas sobre diversos tópicos de programação.
