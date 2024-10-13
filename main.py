@@ -46,7 +46,8 @@ def main():
             # Inicializa o ChatGroq com a API key e o modelo selecionado
             groq_chat = ChatGroq(
                 groq_api_key=groq_api_key,
-                model_name=model
+                model_name=model, 
+                max_tokens=5000
             )
             
             # Definir o template do prompt
