@@ -21,11 +21,17 @@ Este projeto é um **chatbot em Python** desenvolvido para ajudar usuários a re
 
 ### Instalação
 
+Link do projeto:
+```bash
+    https://hyperion-ai-deploy.streamlit.app/
+```
+
 1. Clone o repositório para o seu ambiente local:
     ```bash
     git clone https://github.com/seu-usuario/hyperion-chatbot.git
     cd hyperion-chatbot
     ```
+    
 
 2. Crie e ative um ambiente virtual:
     ```bash
