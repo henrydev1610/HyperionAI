@@ -1,4 +1,4 @@
-![image](./chatbot.png)
+![image](./screencapture-hyperion-ai-deploy-streamlit-app-2024-11-06-01_35_34.png)
 
 # Hyperion Tech Chatbot 🤖
 
